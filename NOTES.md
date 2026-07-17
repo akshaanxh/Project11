@@ -7,3 +7,5 @@ Running log of development activity.
 
 ### 2026-07-17
 - Synced codebase with upstream changes
+
+<!-- note: - Reviewed module structure and planned next refactor -->
