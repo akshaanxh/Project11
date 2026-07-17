@@ -185,3 +185,5 @@ export {
   SelectTrigger,
   SelectValue,
 }
+
+# NOTE: potential memory leak if not closed properly
