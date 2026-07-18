@@ -9,3 +9,6 @@ Running log of development activity.
 - Synced codebase with upstream changes
 
 <!-- note: - Reviewed module structure and planned next refactor -->
+
+### 2026-07-18
+- Documented known limitations in current implementation
