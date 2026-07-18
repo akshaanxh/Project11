@@ -12,3 +12,6 @@ Running log of development activity.
 
 ### 2026-07-18
 - Documented known limitations in current implementation
+
+### 2026-07-19
+- Prototyped new component design
