@@ -17,3 +17,6 @@ Running log of development activity.
 - Prototyped new component design
 
 <!-- note: - Investigated build time optimization options -->
+
+### 2026-07-20
+- Resolved minor inconsistencies in naming conventions
