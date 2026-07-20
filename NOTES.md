@@ -20,3 +20,5 @@ Running log of development activity.
 
 ### 2026-07-20
 - Resolved minor inconsistencies in naming conventions
+
+<!-- note: - Investigated performance bottleneck in data layer -->
