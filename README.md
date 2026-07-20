@@ -275,3 +275,5 @@ This project is open source and available under the [MIT License](LICENSE).
 </div>
 
 <!-- note: - Improved loading state UX flow -->
+
+<!-- note: - Planned migration strategy for legacy components -->
