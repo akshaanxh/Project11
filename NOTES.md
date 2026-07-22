@@ -22,3 +22,6 @@ Running log of development activity.
 - Resolved minor inconsistencies in naming conventions
 
 <!-- note: - Investigated performance bottleneck in data layer -->
+
+### 2026-07-22
+- Prototyped new component design
