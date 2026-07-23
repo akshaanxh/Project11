@@ -25,3 +25,6 @@ Running log of development activity.
 
 ### 2026-07-22
 - Prototyped new component design
+
+### 2026-07-23
+- Investigated performance bottleneck in data layer
